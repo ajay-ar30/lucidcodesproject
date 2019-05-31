@@ -1,0 +1,4 @@
+SurveyNumber,SurveyName,SurveyStatusCode,CountryLanguageID,QuotaCPI,BidLengthOfInterview,Quota,Prescreens,Completes,TotalQuotaRemaining,IsVerifyCallBack
+3164665,SF-208914 | IdeaSwipe Savoury - Spain_10182018,4,22,8,10,247,242,133,114,FALSE
+4948240,SF-224565 Omnibus (L0032) 28th May_Remaining_1,4,8,0.821267025,15,110,198,121,-11,FALSE
+4947372,SF-240040 Poland Recruitment _05/30,4,15,1.073964572,5,950,55,29,921,FALSE
